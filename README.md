@@ -1,4 +1,6 @@
 # Rock_Paper_Scissors_game-
+![image](https://github.com/choimyeongsu/Rock_Paper_Scissors_game-/assets/99162434/d9e45d2a-5c5a-4e82-8cbf-6403ae9fd9c5)
+
 
 ❕ html,css,javascript를 이용한 가위바위보 게임
 html,css,javascript를 이용한 간단한 가위바위보 게임입니다.
