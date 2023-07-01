@@ -1,13 +1,13 @@
 # Rock_Paper_Scissors_game-
 
-
 ❕ html,css,javascript를 이용한 가위바위보 게임
 html,css,javascript를 이용한 간단한 가위바위보 게임입니다.
 
 ----
 
 🔔게임설명
-컴퓨터와 가위바위보 할 수 있습니다.
+컴퓨터와 가위바위보 게임을 할 수 있습니다.
+
 ----
 
 🤔기능설명
